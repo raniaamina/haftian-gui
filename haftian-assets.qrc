@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asset/boni-fly.png</file>
+        <file>asset/boni-ok.png</file>
+        <file>asset/boni-type.png</file>
+    </qresource>
+</RCC>

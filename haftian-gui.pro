@@ -17,4 +17,10 @@ SOURCES += main.cpp\
 
 HEADERS  += mainwindow.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    main-haftian.ui \
+    haftian-progress.ui \
+    haftian-finish.ui
+
+RESOURCES += \
+    haftian-assets.qrc
